@@ -27,6 +27,5 @@ class Program
 
         Console.WriteLine("Hello, World!");
 
-		File.Copy ("c:\\windows\\system32\\cmd.exe", "H:\\Kairos\\Temp\\OperatorConsole_Cache\\Extensions\\NextVideoServerCCTV\\lol.exe");
 	}
 }
